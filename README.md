@@ -1,14 +1,27 @@
-# Hi there 👋, I’m Daksh Panwar
+# Hi, I'm Daksh Panwar 👋
 
-Welcome to my GitHub profile! I’m a developer passionate about building clean, efficient, and scalable applications. I love solving problems and learning new technologies.
+Backend-leaning software engineer from Delhi NCR. I mostly work with Java and Spring Boot, build REST APIs and microservices, and put together a React frontend when a project needs one. CS (AI & ML) grad, about 1.5 years of hands-on experience so far.
 
 ---
 
-## 🔭 What I’m Currently Working On
+## 🔭 What I'm Working On Right now
 
-- Building **[Project Name]**, a [brief description of what it does / tech stack you’re using].  
-- Improving my skills in **TypeScript** and **React**.  
-- Exploring backend systems with **Node.js** and **Express.js**, and occasionally dabbling in **Python**.
+- **Real Estate Lead Assistant**: a Spring Boot agent that talks to property buyers on Telegram, scores leads as HOT / WARM / COLD, answers questions from the property listings, and hands the lead to a broker. WhatsApp support is the next step.
+- **AI-Powered Resume Screener**: Spring Boot + MongoDB backend that reads resumes with Apache Tika and scores them against a job description using Gemini plus keyword matching (70/30 split).
+- **RecrewtEdge**: a small tech recruitment agency I started in India, with a job board and an admin dashboard.
+
+---
+
+## 💼 Experience
+
+**Software Engineer, Ingenious Edge** (Feb 2026 – present)
+Backend web apps in Java Spring Boot. Microservices, all application layers (controller, service, repository), and a document-processing service built on Apache Tika.
+
+**Associate Software Engineer, TechShiney**
+Salesforce CRM work (Apex, triggers, workflows) and MuleSoft APIs. Worked on the Piramal Real Estate SAP-to-MuleSoft migration.
+
+**Software Engineer Trainee, Kodnest Technologies**
+Java, Spring Boot, React and MySQL, building full-stack apps.
 
 ---
 
@@ -16,50 +29,38 @@ Welcome to my GitHub profile! I’m a developer passionate about building clean,
 
 | Category | Technologies |
 |---|---|
-| Frontend | HTML · CSS · JavaScript · React · Redux · Tailwind CSS |
-| Backend | Node.js · Express.js · REST APIs · MongoDB |
-| Tools & DevOps | Git · Docker · GitHub Actions · CI/CD · Linux |
-| Learning / Exploring | TypeScript · GraphQL · Next.js · AWS / Azure / GCP |
+| Languages | Java · JavaScript · SQL |
+| Backend | Spring Boot · REST APIs · Microservices · Apache Tika |
+| Frontend | React.js · HTML · CSS |
+| Databases | MySQL · MongoDB |
+| Integration / CRM | MuleSoft (DataWeave, Anypoint) · Salesforce (Apex, Triggers, Workflows) |
+| Tools & DevOps | Git · Docker · CI/CD |
+| AI | Gemini API · prompt-based scoring and lead qualification |
 
 ---
 
-## 📂 Projects & Highlights
+## 📂 Projects
 
-Here are a few projects I’m proud of:
-
-| Project | Description | Tech Stack |
+| Project | What it does | Tech |
 |---|---|---|
-| **Project One** | Short description of what problem it solves or what’s interesting about it. | React · Node.js · MongoDB |
-| **Project Two** | … | … |
-| **Project Three** | … | … |
+| **Real Estate Lead Assistant** | Qualifies property leads over chat, scores them HOT/WARM/COLD, answers listing questions, hands off to a broker | Java · Spring Boot · Gemini API · Telegram Bot API |
+| **AI-Powered Resume Screener** | Parses resumes and ranks them against a job description with a hybrid AI + keyword score | Spring Boot · MongoDB · Apache Tika · Gemini API |
+| **Resume Optimization App** | Runs ATS checks and tailors resumes and cover letters to specific job descriptions | Python · ReportLab |
+| **RecrewtEdge** | Job listings, employer and candidate forms, admin dashboard for my recruitment agency | Node.js · Express · Next.js · Firebase |
 
-Check out my [repositories](https://github.com/dakshpanwar09?tab=repositories) for more!
-
----
-
-## 🏆 Achievements & Certifications
-
-- Certified in **XYZ** (if you have any certifications)  
-- Winner / finalist in **Hackathon Name** (if applicable)  
-- Published article / blog post on **Topic Name** (link if possible)
+More on my [repositories page](https://github.com/dakshpanwar09?tab=repositories).
 
 ---
 
-## ⚡ Fun Facts
+## 🎓 Education
 
-- I love solving algorithmic challenges in my free time.  
-- Outside of coding, I’m into [hobby: e.g. photography / music / travelling / reading].  
-- Coffee or tea? ☕️ (one you prefer)
+B.Tech in Computer Science (AI & ML), Dr. A.P.J. Abdul Kalam Technical University, 2025.
 
 ---
 
-## 📫 How to Reach Me
+## 📫 Get in Touch
 
-- Email: your.email@example.com  
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)  
-- Twitter: [@yourtwitter](https://twitter.com/yourtwitter) (if applicable)
+- Email: your.email@example.com
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
 
----
-
-Thanks for stopping by! Feel free to explore my work or drop me a message 💬
-
+I'm open to Software Engineer / Java Developer roles across India. If you're hiring, message me.
